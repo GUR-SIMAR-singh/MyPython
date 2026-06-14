@@ -1,2 +1,4 @@
 raise= 5 #indentifier is a name used to identify a variable, function, class, module or other object. It is a user defined name that can be used to store a value or reference to an object. In this case, raise is an identifier that is used to store the value 5. It is not a keyword because it is not reserved by python and can be used as a variable name.
 print("raise" , raise) # here raise is an identifier and it is used to store the value 5. It is not a keyword because it is not reserved by python and can be used as a variable name.
+# _ is the only special character that can be used in an identifier. It is used to separate words in an identifier. For example, my_name is a valid identifier but my-name is not a valid identifier because it contains a hyphen which is not allowed in an identifier.
+#python is case senitiver
