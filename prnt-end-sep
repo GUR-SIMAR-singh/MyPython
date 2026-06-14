@@ -1,0 +1,6 @@
+print("Hi I am Gursimar", end=" ")
+print("Singh") #end is used to specify what to print at the end of the line. By default it is a new line character (\n)
+
+
+print ("Hello", sep="-", end=" ")
+print("World") #sep is used to specify what to print between the items. By default it is a space character.
