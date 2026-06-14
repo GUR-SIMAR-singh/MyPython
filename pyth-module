@@ -1,0 +1,2 @@
+import math # just like java import package to access built in function but python calls it a module
+print(math.sqrt(16)) # sqrt is a built in function in math module to calculate square root
