@@ -1,0 +1,2 @@
+raise= 5
+print("raise" , raise) # here raise is an identifier and it is used to store the value 5. It is not a keyword because it is not reserved by python and can be used as a variable name.
